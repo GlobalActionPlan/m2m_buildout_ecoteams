@@ -5,6 +5,7 @@
 .installed.cfg
 .mr.developer*
 .settings
+local
 *.pyc
 etc/salt.txt
 etc/login_providers.ini
